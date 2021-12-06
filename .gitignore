@@ -1,0 +1,16 @@
+# pycache
+__pycache__/
+
+# large files
+*.pt
+*.bin
+
+# specific large files
+bert_base/bert_config.json
+bert_base/vocab.txt
+
+# DS files
+*.DS_Store
+
+# data
+data/*.json

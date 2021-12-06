@@ -28,6 +28,7 @@ def eval_model(model, label_list, validset_reader, outdir, name):
     with open(outpath, "w") as f:
         for index, data in enumerate(validset_reader):
             inputs, ids = data
+            print(ids)
             logits = model(inputs)
             preds = logits.max(1)[1].tolist()
             assert len(preds) == len(ids)
@@ -63,13 +64,13 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    if not os.path.exists(args.outdir):
-        os.mkdir(args.outdir)
-    args.cuda = not args.no_cuda and torch.cuda.is_available()
-    logging.basicConfig(format='[%(asctime)s] %(levelname)s: %(message)s', level=logging.DEBUG,
-                        datefmt='%d-%m-%Y %H:%M:%S')
-    logger.info(args)
-    logger.info('Start testing!')
+    # if not os.path.exists(args.outdir):
+    #     os.mkdir(args.outdir)
+    # args.cuda = not args.no_cuda and torch.cuda.is_available()
+    # logging.basicConfig(format='[%(asctime)s] %(levelname)s: %(message)s', level=logging.DEBUG,
+    #                     datefmt='%d-%m-%Y %H:%M:%S')
+    # logger.info(args)
+    # logger.info('Start testing!')
 
     label_map = {'SUPPORTS': 0, 'REFUTES': 1, 'NOT ENOUGH INFO': 2}
     label_list = ['SUPPORTS', 'REFUTES', 'NOT ENOUGH INFO']
@@ -78,6 +79,7 @@ if __name__ == "__main__":
     logger.info("loading validation set")
     validset_reader = DataLoaderTest(args.test_path, label_map, tokenizer, args, batch_size=args.batch_size)
     logger.info('initializing estimator model')
+    validset_reader.shuffle()
     bert_model = BertForSequenceEncoder.from_pretrained(args.bert_pretrain)
     bert_model = bert_model.cuda()
     bert_model.eval()
@@ -86,6 +88,6 @@ if __name__ == "__main__":
     model = model.cuda()
     model.eval()
     eval_model(model, label_list, validset_reader, args.outdir, args.name)
-    model.eval()
+    # model.eval()
 
 
