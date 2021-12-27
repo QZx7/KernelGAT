@@ -46,5 +46,5 @@ def get_accuracy(prediction_path: Text, truth_pah: Text) -> None:
 
 
 if __name__ == '__main__':
-    get_accuracy(r'outputtest.json', r'../data/offensive_data/FEVER_Style/bert_test.jsonl')
+    get_accuracy(r'outputtest_non_rr.json', r'../data/offensive_data/FEVER_Style/bert_test_non_rr.jsonl')
     
