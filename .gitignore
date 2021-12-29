@@ -14,3 +14,6 @@ bert_base/vocab.txt
 
 # data
 data/*.json
+
+# offensive data
+data/offensive_data/*
