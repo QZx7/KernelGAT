@@ -1,10 +1,17 @@
 import json
 import random
-from typing import Dict, Optional, Text, Tuple
-from transformers import PegasusTokenizer, PegasusForConditionalGeneration, PreTrainedTokenizer, PreTrainedModel
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, AutoModelForCausalLM, pipeline
+import requests
+import spacy
+from typing import Dict, List, Optional, Text, Tuple
+from thinc.types import Fal
+from transformers import PegasusTokenizer, PegasusForConditionalGeneration
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+from transformers import AutoModelForCausalLM, pipeline
 
 from tqdm import tqdm
+
+# load spacy model
+nlp = spacy.load("en_core_web_md")
 
 def get_claim_evidence(original_data: Dict) -> Tuple[Dict, Dict]:
     id = 0
@@ -15,16 +22,24 @@ def get_claim_evidence(original_data: Dict) -> Tuple[Dict, Dict]:
     # get claims set and evidences set
     for example in original_data:
         claims[id] = example['explicit']
-        evidences[id] = [[example['attribute'], random.randrange(10), example['implicit'], random.random()]]
+        evidences[id] = [[example['attribute'],
+                         random.randrange(10),
+                         example['implicit'],
+                         random.random()]]
         for step in example['chain']:
-            step_tag = step.split('(')[1][:-1]
             step_content = step.split('(')[0][:-1]
-            evidences[id].append([example['attribute'], random.randrange(10), step_content, random.random()])
+            evidences[id].append([example['attribute'],
+                                 random.randrange(10),
+                                 step_content,
+                                 random.random()])
         id += 1
-    
+
     return claims, evidences
 
-def convert_to_fever_style(origin_path: Text, fever_style_path: Text, counter_example_path: Optional[Text]) -> None:
+
+def convert_to_fever_style(origin_path: Text,
+                           fever_style_path: Text,
+                           counter_example_path: Optional[Text]) -> None:
     """[summary]
     This is to covert the Mh-RIOT data to a FEVER style
     Args:
@@ -219,6 +234,13 @@ class CounterFactualModel:
         return result_text
 
 def generate_counter_evidence(origin_path: Text, counter_evidence_path: Text, model: CounterFactualModel) -> None:
+    """This is to generate some counterfactual examples
+    using the counterfactual paraphrasing models.
+    Args:
+        origin_path (Text): path to the original file.
+        counter_evidence_path (Text): path of the to be generated counterfactual file.
+        model (CounterFactualModel): The counterfactual model being used.
+    """
     model.load_model()
     original_file = open(origin_path, 'r', encoding='utf-8')
     counter_evidence_file = open(counter_evidence_path, 'w', encoding='utf-8')
@@ -250,13 +272,86 @@ def generate_counter_evidence(origin_path: Text, counter_evidence_path: Text, mo
     json.dump(original_data, counter_evidence_file, indent=4)
 
 
+def generate_counter_nlp(origin_path: Text, counter_evidence_path:Text) -> None:
+    """This is to process the splited KIR steps.
+
+    Args:
+        origin_path (Text): path to the original file.
+        counter_evidence_path (Text): path of the to be generated counterfactual file.
+    """
+    original_file = open(origin_path, 'r', encoding='utf-8')
+    counter_evidence_file = open(counter_evidence_path, 'w', encoding='utf-8')
+    original_data = json.load(original_file)
+    for example in original_data:
+        counter_chain = []
+        for step in example["chain"]:
+            step_parts = step.split("(")
+            step_tag = step_parts[1][:-1]
+            step_content = step_parts[0][:-1]
+            if step_tag == "KIR":
+                # process the KIR steps
+                if "because" in step_content and "because of" not in step_content:
+                    content_parts = step_content.split("because")
+                    print(content_parts)
+                    new_content_parts = counter_KIR_process(content_parts, paraphrasing=False)
+                    print(new_content_parts)
+            counter_chain.append(step)
+        example["chain"] = counter_chain
+    json.dump(original_data, counter_evidence_file, indent=4, ensure_ascii=False)
+
+
+def counter_KIR_process(sentence_pieces: List, paraphrasing: Optional[bool] = False) -> List[str]:
+    new_sentence_pieces = []
+    if paraphrasing:
+        counterfactual = CounterFactualModel("polyjuice")
+        counterfactual.load_model()
+    for sentence in sentence_pieces:
+        if paraphrasing:
+            promt = sentence + " <|perturb|>[negation]"
+            counter_samples = counterfactual.get_counterfactual(promt)
+            for sample in counter_samples:
+                answer = sample['generated_text'].split("[SEP]")[1][1:].split("[A")[0][:-1]
+                sentence = sample['generated_text'].split("[negation]")[1][1:].split("[SEP]")[0][:-1]
+                sentence = sentence.replace("[BLANK]", answer)
+                print(sentence)
+        else:
+            # remove don't, can't
+            # haven't to have, have to haven't
+            # cannot to can
+            # should to "don't have to"
+            # "have to", "need to" to "don't have to"
+            if "don\'t" in sentence or "can\'t" in sentence:
+                sentence = sentence.replace(" don\'t ", " ").replace(" can\'t ", " ")
+            elif "cannot" in sentence:
+                sentence = sentence.replace(" cannot ", " can ")
+            elif "should" in sentence:
+                sentence = sentence.replace(" should ", " don\'t have to ")
+            elif "have to" in sentence:
+                sentence = sentence.replace(" have to ", " don\'t have to ")
+            new_sentence_pieces.append(sentence)
+    return new_sentence_pieces
+            # doc = nlp(sentence)
+            # for noun_chunk in doc.noun_chunks:
+            #     if noun_chunk.text not in ["you", "You", "yourself", "Yourself"]:
+            #         print(noun_chunk.text)
+            # print("\n")
+
+
+def concept_net_request(message: Text) -> List[str]:
+    search_url = "http://api.conceptnet.io/c/en/" + message
+    obj = requests.get(search_url).json()
+    for edge in obj["edges"]:
+        print(edge["start"]["label"] + "---" + edge["rel"]["label"] + "---" + edge["end"]["label"])
+        # print(edge["rel"]["label"])
+        # print(edge["end"]["label"] + "\n")
+
 if __name__ == '__main__':
     # convert_to_fever_style(r'./offensive_data/origin/non_offensive_grammar.json',
     #                        r'./offensive_data/FEVER_Style/bert_test.jsonl')
     # remove_rephrasing_steps(r'./offensive_data/origin/non_offensive_grammar.json')
-    convert_to_fever_style(r'./offensive_data/origin/non_offensive_grammar_non_rr.json',
-                           r'./offensive_data/FEVER_Style/bert_test_non_rr_counter.jsonl',
-                           counter_example_path=r'./offensive_data/origin/non_offensive_counter_grammar.json')
+    # convert_to_fever_style(r'./offensive_data/origin/non_offensive_grammar_non_rr.json',
+    #                        r'./offensive_data/FEVER_Style/bert_test_non_rr_counter.jsonl',
+    #                        counter_example_path=r'./offensive_data/origin/non_offensive_counter_grammar.json')
     # generate_counter_evidence(r'./', r'./')
     # counter_factual = CounterFactualModel("polyjuice")
     # counter_factual.load_model()
@@ -270,3 +365,7 @@ if __name__ == '__main__':
     # generate_counter_evidence(r'./offensive_data/origin/non_offensive_grammar_non_rr.json',
     #                           r'./offensive_data/origin/non_offensive_grammar_counter.json',
     #                           counter_factual)
+
+    generate_counter_nlp(r'./offensive_data/origin/non_offensive_grammar_non_rr.json',
+                         r'./offensive_data/FEVER_Style/bert_test_non_rr_counter.jsonl')
+    # concept_net_request("learn")
