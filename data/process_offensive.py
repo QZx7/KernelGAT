@@ -3,7 +3,6 @@ import random
 import requests
 import spacy
 from typing import Dict, List, Optional, Text, Tuple
-from thinc.types import Fal
 from transformers import PegasusTokenizer, PegasusForConditionalGeneration
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from transformers import AutoModelForCausalLM, pipeline
@@ -282,7 +281,8 @@ def generate_counter_nlp(origin_path: Text, counter_evidence_path:Text) -> None:
     original_file = open(origin_path, 'r', encoding='utf-8')
     counter_evidence_file = open(counter_evidence_path, 'w', encoding='utf-8')
     original_data = json.load(original_file)
-    for example in original_data:
+
+    for example in tqdm(original_data):
         counter_chain = []
         for step in example["chain"]:
             step_parts = step.split("(")
@@ -292,11 +292,16 @@ def generate_counter_nlp(origin_path: Text, counter_evidence_path:Text) -> None:
                 # process the KIR steps
                 if "because" in step_content and "because of" not in step_content:
                     content_parts = step_content.split("because")
-                    print(content_parts)
-                    new_content_parts = counter_KIR_process(content_parts, paraphrasing=False)
-                    print(new_content_parts)
-            counter_chain.append(step)
-        example["chain"] = counter_chain
+                    # print(content_parts)
+                    try:
+                        new_content_parts = counter_KIR_process(content_parts, paraphrasing=True)
+                    except IndexError:
+                        pass
+                    # print(new_content_parts)
+                    counter_chain.extend(new_content_parts)
+            else:
+                counter_chain.append(step)
+        example['chain'] = counter_chain
     json.dump(original_data, counter_evidence_file, indent=4, ensure_ascii=False)
 
 
@@ -313,7 +318,6 @@ def counter_KIR_process(sentence_pieces: List, paraphrasing: Optional[bool] = Fa
                 answer = sample['generated_text'].split("[SEP]")[1][1:].split("[A")[0][:-1]
                 sentence = sample['generated_text'].split("[negation]")[1][1:].split("[SEP]")[0][:-1]
                 sentence = sentence.replace("[BLANK]", answer)
-                print(sentence)
         else:
             # remove don't, can't
             # haven't to have, have to haven't
@@ -328,7 +332,7 @@ def counter_KIR_process(sentence_pieces: List, paraphrasing: Optional[bool] = Fa
                 sentence = sentence.replace(" should ", " don\'t have to ")
             elif "have to" in sentence:
                 sentence = sentence.replace(" have to ", " don\'t have to ")
-            new_sentence_pieces.append(sentence)
+        new_sentence_pieces.append(sentence)
     return new_sentence_pieces
             # doc = nlp(sentence)
             # for noun_chunk in doc.noun_chunks:
@@ -338,10 +342,14 @@ def counter_KIR_process(sentence_pieces: List, paraphrasing: Optional[bool] = Fa
 
 
 def concept_net_request(message: Text) -> List[str]:
+    message = message.replace(" ", "_")
     search_url = "http://api.conceptnet.io/c/en/" + message
     obj = requests.get(search_url).json()
     for edge in obj["edges"]:
+
         print(edge["start"]["label"] + "---" + edge["rel"]["label"] + "---" + edge["end"]["label"])
+        if 'surfaceText' in edge:
+            print(edge['surfaceText'])
         # print(edge["rel"]["label"])
         # print(edge["end"]["label"] + "\n")
 
@@ -366,6 +374,6 @@ if __name__ == '__main__':
     #                           r'./offensive_data/origin/non_offensive_grammar_counter.json',
     #                           counter_factual)
 
-    generate_counter_nlp(r'./offensive_data/origin/non_offensive_grammar_non_rr.json',
-                         r'./offensive_data/FEVER_Style/bert_test_non_rr_counter.jsonl')
-    # concept_net_request("learn")
+    # generate_counter_nlp(r'./data/offensive_data/origin/non_offensive_grammar_non_rr.json',
+    #                      r'./data/offensive_data/origin/non_offensive_non_rr_counter.json')
+    concept_net_request("reputation")
