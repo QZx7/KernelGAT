@@ -1,147 +1,147 @@
-{"id": 0, "predicted_label": "SUPPORTS"}
+{"id": 0, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1, "predicted_label": "SUPPORTS"}
-{"id": 2, "predicted_label": "SUPPORTS"}
+{"id": 2, "predicted_label": "REFUTES"}
 {"id": 3, "predicted_label": "SUPPORTS"}
 {"id": 4, "predicted_label": "SUPPORTS"}
-{"id": 5, "predicted_label": "SUPPORTS"}
+{"id": 5, "predicted_label": "REFUTES"}
 {"id": 6, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 7, "predicted_label": "SUPPORTS"}
-{"id": 8, "predicted_label": "SUPPORTS"}
+{"id": 7, "predicted_label": "REFUTES"}
+{"id": 8, "predicted_label": "REFUTES"}
 {"id": 9, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 10, "predicted_label": "SUPPORTS"}
-{"id": 11, "predicted_label": "SUPPORTS"}
-{"id": 12, "predicted_label": "SUPPORTS"}
-{"id": 13, "predicted_label": "SUPPORTS"}
-{"id": 14, "predicted_label": "SUPPORTS"}
-{"id": 15, "predicted_label": "SUPPORTS"}
+{"id": 11, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 12, "predicted_label": "REFUTES"}
+{"id": 13, "predicted_label": "REFUTES"}
+{"id": 14, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 15, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 16, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 17, "predicted_label": "SUPPORTS"}
+{"id": 17, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 18, "predicted_label": "SUPPORTS"}
 {"id": 19, "predicted_label": "SUPPORTS"}
-{"id": 20, "predicted_label": "REFUTES"}
-{"id": 21, "predicted_label": "SUPPORTS"}
+{"id": 20, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 21, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 22, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 23, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 24, "predicted_label": "SUPPORTS"}
-{"id": 25, "predicted_label": "SUPPORTS"}
-{"id": 26, "predicted_label": "SUPPORTS"}
-{"id": 27, "predicted_label": "SUPPORTS"}
-{"id": 28, "predicted_label": "SUPPORTS"}
+{"id": 24, "predicted_label": "REFUTES"}
+{"id": 25, "predicted_label": "REFUTES"}
+{"id": 26, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 27, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 28, "predicted_label": "REFUTES"}
 {"id": 29, "predicted_label": "SUPPORTS"}
 {"id": 30, "predicted_label": "SUPPORTS"}
-{"id": 31, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 31, "predicted_label": "SUPPORTS"}
 {"id": 32, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 33, "predicted_label": "SUPPORTS"}
-{"id": 34, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 34, "predicted_label": "SUPPORTS"}
 {"id": 35, "predicted_label": "REFUTES"}
 {"id": 36, "predicted_label": "SUPPORTS"}
-{"id": 37, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 37, "predicted_label": "SUPPORTS"}
 {"id": 38, "predicted_label": "SUPPORTS"}
 {"id": 39, "predicted_label": "REFUTES"}
 {"id": 40, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 41, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 42, "predicted_label": "REFUTES"}
+{"id": 42, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 43, "predicted_label": "SUPPORTS"}
-{"id": 44, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 44, "predicted_label": "SUPPORTS"}
 {"id": 45, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 46, "predicted_label": "SUPPORTS"}
+{"id": 46, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 47, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 48, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 49, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 49, "predicted_label": "SUPPORTS"}
 {"id": 50, "predicted_label": "SUPPORTS"}
 {"id": 51, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 52, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 53, "predicted_label": "SUPPORTS"}
-{"id": 54, "predicted_label": "SUPPORTS"}
+{"id": 53, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 54, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 55, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 56, "predicted_label": "SUPPORTS"}
 {"id": 57, "predicted_label": "SUPPORTS"}
-{"id": 58, "predicted_label": "SUPPORTS"}
-{"id": 59, "predicted_label": "SUPPORTS"}
+{"id": 58, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 59, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 60, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 61, "predicted_label": "SUPPORTS"}
 {"id": 62, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 63, "predicted_label": "SUPPORTS"}
-{"id": 64, "predicted_label": "REFUTES"}
+{"id": 64, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 65, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 66, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 67, "predicted_label": "SUPPORTS"}
+{"id": 67, "predicted_label": "REFUTES"}
 {"id": 68, "predicted_label": "SUPPORTS"}
 {"id": 69, "predicted_label": "REFUTES"}
 {"id": 70, "predicted_label": "SUPPORTS"}
-{"id": 71, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 72, "predicted_label": "SUPPORTS"}
+{"id": 71, "predicted_label": "SUPPORTS"}
+{"id": 72, "predicted_label": "REFUTES"}
 {"id": 73, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 74, "predicted_label": "REFUTES"}
-{"id": 75, "predicted_label": "SUPPORTS"}
-{"id": 76, "predicted_label": "SUPPORTS"}
-{"id": 77, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 75, "predicted_label": "REFUTES"}
+{"id": 76, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 77, "predicted_label": "SUPPORTS"}
 {"id": 78, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 79, "predicted_label": "SUPPORTS"}
-{"id": 80, "predicted_label": "SUPPORTS"}
+{"id": 80, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 81, "predicted_label": "REFUTES"}
 {"id": 82, "predicted_label": "SUPPORTS"}
 {"id": 83, "predicted_label": "SUPPORTS"}
 {"id": 84, "predicted_label": "SUPPORTS"}
-{"id": 85, "predicted_label": "SUPPORTS"}
-{"id": 86, "predicted_label": "SUPPORTS"}
-{"id": 87, "predicted_label": "REFUTES"}
+{"id": 85, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 86, "predicted_label": "REFUTES"}
+{"id": 87, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 88, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 89, "predicted_label": "SUPPORTS"}
+{"id": 89, "predicted_label": "REFUTES"}
 {"id": 90, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 91, "predicted_label": "SUPPORTS"}
+{"id": 91, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 92, "predicted_label": "SUPPORTS"}
 {"id": 93, "predicted_label": "SUPPORTS"}
-{"id": 94, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 94, "predicted_label": "SUPPORTS"}
 {"id": 95, "predicted_label": "REFUTES"}
 {"id": 96, "predicted_label": "SUPPORTS"}
 {"id": 97, "predicted_label": "REFUTES"}
-{"id": 98, "predicted_label": "SUPPORTS"}
-{"id": 99, "predicted_label": "SUPPORTS"}
+{"id": 98, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 99, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 100, "predicted_label": "SUPPORTS"}
 {"id": 101, "predicted_label": "SUPPORTS"}
 {"id": 102, "predicted_label": "SUPPORTS"}
-{"id": 103, "predicted_label": "REFUTES"}
+{"id": 103, "predicted_label": "SUPPORTS"}
 {"id": 104, "predicted_label": "SUPPORTS"}
 {"id": 105, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 106, "predicted_label": "SUPPORTS"}
+{"id": 106, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 107, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 108, "predicted_label": "SUPPORTS"}
+{"id": 108, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 109, "predicted_label": "SUPPORTS"}
 {"id": 110, "predicted_label": "SUPPORTS"}
 {"id": 111, "predicted_label": "SUPPORTS"}
 {"id": 112, "predicted_label": "SUPPORTS"}
 {"id": 113, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 114, "predicted_label": "SUPPORTS"}
-{"id": 115, "predicted_label": "SUPPORTS"}
-{"id": 116, "predicted_label": "SUPPORTS"}
-{"id": 117, "predicted_label": "SUPPORTS"}
+{"id": 115, "predicted_label": "REFUTES"}
+{"id": 116, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 117, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 118, "predicted_label": "REFUTES"}
-{"id": 119, "predicted_label": "SUPPORTS"}
+{"id": 119, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 120, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 121, "predicted_label": "SUPPORTS"}
 {"id": 122, "predicted_label": "REFUTES"}
 {"id": 123, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 124, "predicted_label": "REFUTES"}
-{"id": 125, "predicted_label": "SUPPORTS"}
+{"id": 125, "predicted_label": "REFUTES"}
 {"id": 126, "predicted_label": "SUPPORTS"}
 {"id": 127, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 128, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 128, "predicted_label": "SUPPORTS"}
 {"id": 129, "predicted_label": "SUPPORTS"}
 {"id": 130, "predicted_label": "SUPPORTS"}
-{"id": 131, "predicted_label": "SUPPORTS"}
+{"id": 131, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 132, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 133, "predicted_label": "SUPPORTS"}
-{"id": 134, "predicted_label": "SUPPORTS"}
-{"id": 135, "predicted_label": "SUPPORTS"}
+{"id": 134, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 135, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 136, "predicted_label": "SUPPORTS"}
 {"id": 137, "predicted_label": "REFUTES"}
-{"id": 138, "predicted_label": "SUPPORTS"}
+{"id": 138, "predicted_label": "REFUTES"}
 {"id": 139, "predicted_label": "SUPPORTS"}
 {"id": 140, "predicted_label": "SUPPORTS"}
 {"id": 141, "predicted_label": "SUPPORTS"}
 {"id": 142, "predicted_label": "SUPPORTS"}
-{"id": 143, "predicted_label": "SUPPORTS"}
+{"id": 143, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 144, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 145, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 146, "predicted_label": "SUPPORTS"}
@@ -154,21 +154,21 @@
 {"id": 153, "predicted_label": "SUPPORTS"}
 {"id": 154, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 155, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 156, "predicted_label": "SUPPORTS"}
+{"id": 156, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 157, "predicted_label": "SUPPORTS"}
 {"id": 158, "predicted_label": "REFUTES"}
 {"id": 159, "predicted_label": "SUPPORTS"}
-{"id": 160, "predicted_label": "SUPPORTS"}
-{"id": 161, "predicted_label": "SUPPORTS"}
+{"id": 160, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 161, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 162, "predicted_label": "SUPPORTS"}
 {"id": 163, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 164, "predicted_label": "SUPPORTS"}
-{"id": 165, "predicted_label": "REFUTES"}
+{"id": 164, "predicted_label": "REFUTES"}
+{"id": 165, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 166, "predicted_label": "SUPPORTS"}
 {"id": 167, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 168, "predicted_label": "SUPPORTS"}
 {"id": 169, "predicted_label": "REFUTES"}
-{"id": 170, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 170, "predicted_label": "SUPPORTS"}
 {"id": 171, "predicted_label": "REFUTES"}
 {"id": 172, "predicted_label": "SUPPORTS"}
 {"id": 173, "predicted_label": "NOT ENOUGH INFO"}
@@ -178,38 +178,38 @@
 {"id": 177, "predicted_label": "SUPPORTS"}
 {"id": 178, "predicted_label": "SUPPORTS"}
 {"id": 179, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 180, "predicted_label": "SUPPORTS"}
+{"id": 180, "predicted_label": "REFUTES"}
 {"id": 181, "predicted_label": "SUPPORTS"}
 {"id": 182, "predicted_label": "SUPPORTS"}
 {"id": 183, "predicted_label": "SUPPORTS"}
 {"id": 184, "predicted_label": "SUPPORTS"}
 {"id": 185, "predicted_label": "REFUTES"}
 {"id": 186, "predicted_label": "SUPPORTS"}
-{"id": 187, "predicted_label": "SUPPORTS"}
-{"id": 188, "predicted_label": "SUPPORTS"}
+{"id": 187, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 188, "predicted_label": "REFUTES"}
 {"id": 189, "predicted_label": "SUPPORTS"}
 {"id": 190, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 191, "predicted_label": "REFUTES"}
-{"id": 192, "predicted_label": "SUPPORTS"}
+{"id": 191, "predicted_label": "SUPPORTS"}
+{"id": 192, "predicted_label": "REFUTES"}
 {"id": 193, "predicted_label": "SUPPORTS"}
 {"id": 194, "predicted_label": "SUPPORTS"}
 {"id": 195, "predicted_label": "SUPPORTS"}
 {"id": 196, "predicted_label": "SUPPORTS"}
 {"id": 197, "predicted_label": "SUPPORTS"}
-{"id": 198, "predicted_label": "SUPPORTS"}
+{"id": 198, "predicted_label": "REFUTES"}
 {"id": 199, "predicted_label": "SUPPORTS"}
 {"id": 200, "predicted_label": "SUPPORTS"}
-{"id": 201, "predicted_label": "SUPPORTS"}
+{"id": 201, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 202, "predicted_label": "SUPPORTS"}
 {"id": 203, "predicted_label": "SUPPORTS"}
-{"id": 204, "predicted_label": "SUPPORTS"}
-{"id": 205, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 206, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 204, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 205, "predicted_label": "SUPPORTS"}
+{"id": 206, "predicted_label": "SUPPORTS"}
 {"id": 207, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 208, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 209, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 210, "predicted_label": "REFUTES"}
-{"id": 211, "predicted_label": "SUPPORTS"}
+{"id": 210, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 211, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 212, "predicted_label": "SUPPORTS"}
 {"id": 213, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 214, "predicted_label": "NOT ENOUGH INFO"}
@@ -220,30 +220,30 @@
 {"id": 219, "predicted_label": "SUPPORTS"}
 {"id": 220, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 221, "predicted_label": "SUPPORTS"}
-{"id": 222, "predicted_label": "REFUTES"}
+{"id": 222, "predicted_label": "SUPPORTS"}
 {"id": 223, "predicted_label": "SUPPORTS"}
 {"id": 224, "predicted_label": "SUPPORTS"}
-{"id": 225, "predicted_label": "REFUTES"}
+{"id": 225, "predicted_label": "SUPPORTS"}
 {"id": 226, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 227, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 227, "predicted_label": "REFUTES"}
 {"id": 228, "predicted_label": "REFUTES"}
 {"id": 229, "predicted_label": "REFUTES"}
 {"id": 230, "predicted_label": "SUPPORTS"}
 {"id": 231, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 232, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 233, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 234, "predicted_label": "SUPPORTS"}
+{"id": 234, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 235, "predicted_label": "SUPPORTS"}
 {"id": 236, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 237, "predicted_label": "SUPPORTS"}
+{"id": 237, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 238, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 239, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 240, "predicted_label": "SUPPORTS"}
-{"id": 241, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 241, "predicted_label": "SUPPORTS"}
 {"id": 242, "predicted_label": "REFUTES"}
-{"id": 243, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 243, "predicted_label": "SUPPORTS"}
 {"id": 244, "predicted_label": "REFUTES"}
-{"id": 245, "predicted_label": "SUPPORTS"}
+{"id": 245, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 246, "predicted_label": "REFUTES"}
 {"id": 247, "predicted_label": "REFUTES"}
 {"id": 248, "predicted_label": "SUPPORTS"}
@@ -251,7 +251,7 @@
 {"id": 250, "predicted_label": "SUPPORTS"}
 {"id": 251, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 252, "predicted_label": "REFUTES"}
-{"id": 253, "predicted_label": "SUPPORTS"}
+{"id": 253, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 254, "predicted_label": "SUPPORTS"}
 {"id": 255, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 256, "predicted_label": "SUPPORTS"}
@@ -259,19 +259,19 @@
 {"id": 258, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 259, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 260, "predicted_label": "SUPPORTS"}
-{"id": 261, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 261, "predicted_label": "REFUTES"}
 {"id": 262, "predicted_label": "SUPPORTS"}
-{"id": 263, "predicted_label": "SUPPORTS"}
-{"id": 264, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 263, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 264, "predicted_label": "SUPPORTS"}
 {"id": 265, "predicted_label": "REFUTES"}
 {"id": 266, "predicted_label": "SUPPORTS"}
-{"id": 267, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 268, "predicted_label": "REFUTES"}
+{"id": 267, "predicted_label": "SUPPORTS"}
+{"id": 268, "predicted_label": "SUPPORTS"}
 {"id": 269, "predicted_label": "SUPPORTS"}
 {"id": 270, "predicted_label": "SUPPORTS"}
 {"id": 271, "predicted_label": "SUPPORTS"}
-{"id": 272, "predicted_label": "SUPPORTS"}
-{"id": 273, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 272, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 273, "predicted_label": "REFUTES"}
 {"id": 274, "predicted_label": "SUPPORTS"}
 {"id": 275, "predicted_label": "SUPPORTS"}
 {"id": 276, "predicted_label": "SUPPORTS"}
@@ -281,21 +281,21 @@
 {"id": 280, "predicted_label": "SUPPORTS"}
 {"id": 281, "predicted_label": "SUPPORTS"}
 {"id": 282, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 283, "predicted_label": "SUPPORTS"}
+{"id": 283, "predicted_label": "REFUTES"}
 {"id": 284, "predicted_label": "SUPPORTS"}
 {"id": 285, "predicted_label": "REFUTES"}
 {"id": 286, "predicted_label": "SUPPORTS"}
 {"id": 287, "predicted_label": "REFUTES"}
-{"id": 288, "predicted_label": "SUPPORTS"}
-{"id": 289, "predicted_label": "SUPPORTS"}
+{"id": 288, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 289, "predicted_label": "REFUTES"}
 {"id": 290, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 291, "predicted_label": "REFUTES"}
 {"id": 292, "predicted_label": "REFUTES"}
 {"id": 293, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 294, "predicted_label": "REFUTES"}
-{"id": 295, "predicted_label": "SUPPORTS"}
-{"id": 296, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 297, "predicted_label": "SUPPORTS"}
+{"id": 295, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 296, "predicted_label": "SUPPORTS"}
+{"id": 297, "predicted_label": "REFUTES"}
 {"id": 298, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 299, "predicted_label": "SUPPORTS"}
 {"id": 300, "predicted_label": "SUPPORTS"}
@@ -309,7 +309,7 @@
 {"id": 308, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 309, "predicted_label": "REFUTES"}
 {"id": 310, "predicted_label": "REFUTES"}
-{"id": 311, "predicted_label": "SUPPORTS"}
+{"id": 311, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 312, "predicted_label": "SUPPORTS"}
 {"id": 313, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 314, "predicted_label": "SUPPORTS"}
@@ -320,7 +320,7 @@
 {"id": 319, "predicted_label": "SUPPORTS"}
 {"id": 320, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 321, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 322, "predicted_label": "SUPPORTS"}
+{"id": 322, "predicted_label": "REFUTES"}
 {"id": 323, "predicted_label": "SUPPORTS"}
 {"id": 324, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 325, "predicted_label": "SUPPORTS"}
@@ -331,63 +331,63 @@
 {"id": 330, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 331, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 332, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 333, "predicted_label": "SUPPORTS"}
+{"id": 333, "predicted_label": "REFUTES"}
 {"id": 334, "predicted_label": "SUPPORTS"}
 {"id": 335, "predicted_label": "SUPPORTS"}
-{"id": 336, "predicted_label": "SUPPORTS"}
+{"id": 336, "predicted_label": "REFUTES"}
 {"id": 337, "predicted_label": "SUPPORTS"}
-{"id": 338, "predicted_label": "REFUTES"}
-{"id": 339, "predicted_label": "SUPPORTS"}
+{"id": 338, "predicted_label": "SUPPORTS"}
+{"id": 339, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 340, "predicted_label": "SUPPORTS"}
-{"id": 341, "predicted_label": "SUPPORTS"}
-{"id": 342, "predicted_label": "SUPPORTS"}
-{"id": 343, "predicted_label": "SUPPORTS"}
+{"id": 341, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 342, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 343, "predicted_label": "REFUTES"}
 {"id": 344, "predicted_label": "SUPPORTS"}
 {"id": 345, "predicted_label": "REFUTES"}
 {"id": 346, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 347, "predicted_label": "SUPPORTS"}
 {"id": 348, "predicted_label": "SUPPORTS"}
 {"id": 349, "predicted_label": "REFUTES"}
-{"id": 350, "predicted_label": "SUPPORTS"}
+{"id": 350, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 351, "predicted_label": "REFUTES"}
 {"id": 352, "predicted_label": "SUPPORTS"}
 {"id": 353, "predicted_label": "SUPPORTS"}
-{"id": 354, "predicted_label": "SUPPORTS"}
+{"id": 354, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 355, "predicted_label": "SUPPORTS"}
-{"id": 356, "predicted_label": "SUPPORTS"}
+{"id": 356, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 357, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 358, "predicted_label": "REFUTES"}
 {"id": 359, "predicted_label": "SUPPORTS"}
 {"id": 360, "predicted_label": "SUPPORTS"}
-{"id": 361, "predicted_label": "SUPPORTS"}
-{"id": 362, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 361, "predicted_label": "REFUTES"}
+{"id": 362, "predicted_label": "SUPPORTS"}
 {"id": 363, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 364, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 365, "predicted_label": "SUPPORTS"}
-{"id": 366, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 367, "predicted_label": "SUPPORTS"}
+{"id": 365, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 366, "predicted_label": "SUPPORTS"}
+{"id": 367, "predicted_label": "REFUTES"}
 {"id": 368, "predicted_label": "SUPPORTS"}
 {"id": 369, "predicted_label": "SUPPORTS"}
 {"id": 370, "predicted_label": "SUPPORTS"}
-{"id": 371, "predicted_label": "SUPPORTS"}
+{"id": 371, "predicted_label": "REFUTES"}
 {"id": 372, "predicted_label": "REFUTES"}
 {"id": 373, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 374, "predicted_label": "REFUTES"}
-{"id": 375, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 374, "predicted_label": "SUPPORTS"}
+{"id": 375, "predicted_label": "SUPPORTS"}
 {"id": 376, "predicted_label": "REFUTES"}
 {"id": 377, "predicted_label": "SUPPORTS"}
-{"id": 378, "predicted_label": "REFUTES"}
-{"id": 379, "predicted_label": "SUPPORTS"}
-{"id": 380, "predicted_label": "SUPPORTS"}
+{"id": 378, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 379, "predicted_label": "REFUTES"}
+{"id": 380, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 381, "predicted_label": "REFUTES"}
 {"id": 382, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 383, "predicted_label": "REFUTES"}
-{"id": 384, "predicted_label": "SUPPORTS"}
+{"id": 384, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 385, "predicted_label": "SUPPORTS"}
-{"id": 386, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 387, "predicted_label": "SUPPORTS"}
-{"id": 388, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 389, "predicted_label": "SUPPORTS"}
+{"id": 386, "predicted_label": "SUPPORTS"}
+{"id": 387, "predicted_label": "REFUTES"}
+{"id": 388, "predicted_label": "SUPPORTS"}
+{"id": 389, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 390, "predicted_label": "SUPPORTS"}
 {"id": 391, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 392, "predicted_label": "NOT ENOUGH INFO"}
@@ -397,104 +397,104 @@
 {"id": 396, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 397, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 398, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 399, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 399, "predicted_label": "REFUTES"}
 {"id": 400, "predicted_label": "REFUTES"}
-{"id": 401, "predicted_label": "REFUTES"}
-{"id": 402, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 403, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 404, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 405, "predicted_label": "REFUTES"}
-{"id": 406, "predicted_label": "REFUTES"}
+{"id": 401, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 402, "predicted_label": "SUPPORTS"}
+{"id": 403, "predicted_label": "REFUTES"}
+{"id": 404, "predicted_label": "REFUTES"}
+{"id": 405, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 406, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 407, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 408, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 408, "predicted_label": "REFUTES"}
 {"id": 409, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 410, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 411, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 412, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 412, "predicted_label": "REFUTES"}
 {"id": 413, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 414, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 415, "predicted_label": "SUPPORTS"}
+{"id": 415, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 416, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 417, "predicted_label": "REFUTES"}
 {"id": 418, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 419, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 420, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 419, "predicted_label": "REFUTES"}
+{"id": 420, "predicted_label": "REFUTES"}
 {"id": 421, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 422, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 423, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 424, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 425, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 426, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 422, "predicted_label": "SUPPORTS"}
+{"id": 423, "predicted_label": "SUPPORTS"}
+{"id": 424, "predicted_label": "SUPPORTS"}
+{"id": 425, "predicted_label": "SUPPORTS"}
+{"id": 426, "predicted_label": "SUPPORTS"}
 {"id": 427, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 428, "predicted_label": "REFUTES"}
+{"id": 428, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 429, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 430, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 431, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 432, "predicted_label": "REFUTES"}
 {"id": 433, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 434, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 435, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 436, "predicted_label": "REFUTES"}
+{"id": 434, "predicted_label": "REFUTES"}
+{"id": 435, "predicted_label": "SUPPORTS"}
+{"id": 436, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 437, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 438, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 438, "predicted_label": "REFUTES"}
 {"id": 439, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 440, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 441, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 442, "predicted_label": "SUPPORTS"}
-{"id": 443, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 440, "predicted_label": "REFUTES"}
+{"id": 441, "predicted_label": "SUPPORTS"}
+{"id": 442, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 443, "predicted_label": "REFUTES"}
 {"id": 444, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 445, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 446, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 446, "predicted_label": "SUPPORTS"}
 {"id": 447, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 448, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 449, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 450, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 451, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 452, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 448, "predicted_label": "SUPPORTS"}
+{"id": 449, "predicted_label": "REFUTES"}
+{"id": 450, "predicted_label": "SUPPORTS"}
+{"id": 451, "predicted_label": "SUPPORTS"}
+{"id": 452, "predicted_label": "REFUTES"}
 {"id": 453, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 454, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 455, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 455, "predicted_label": "REFUTES"}
 {"id": 456, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 457, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 458, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 459, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 460, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 461, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 461, "predicted_label": "SUPPORTS"}
 {"id": 462, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 463, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 464, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 465, "predicted_label": "REFUTES"}
+{"id": 465, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 466, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 467, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 467, "predicted_label": "REFUTES"}
 {"id": 468, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 469, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 470, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 470, "predicted_label": "SUPPORTS"}
 {"id": 471, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 472, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 473, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 474, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 475, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 476, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 477, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 475, "predicted_label": "SUPPORTS"}
+{"id": 476, "predicted_label": "REFUTES"}
+{"id": 477, "predicted_label": "REFUTES"}
 {"id": 478, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 479, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 480, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 481, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 482, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 483, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 484, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 485, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 479, "predicted_label": "SUPPORTS"}
+{"id": 480, "predicted_label": "SUPPORTS"}
+{"id": 481, "predicted_label": "SUPPORTS"}
+{"id": 482, "predicted_label": "REFUTES"}
+{"id": 483, "predicted_label": "SUPPORTS"}
+{"id": 484, "predicted_label": "REFUTES"}
+{"id": 485, "predicted_label": "REFUTES"}
 {"id": 486, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 487, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 488, "predicted_label": "REFUTES"}
+{"id": 488, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 489, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 490, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 491, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 492, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 493, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 494, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 495, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 496, "predicted_label": "REFUTES"}
+{"id": 495, "predicted_label": "REFUTES"}
+{"id": 496, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 497, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 498, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 499, "predicted_label": "NOT ENOUGH INFO"}
@@ -502,52 +502,52 @@
 {"id": 501, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 502, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 503, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 504, "predicted_label": "REFUTES"}
-{"id": 505, "predicted_label": "REFUTES"}
+{"id": 504, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 505, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 506, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 507, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 508, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 509, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 510, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 511, "predicted_label": "REFUTES"}
-{"id": 512, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 512, "predicted_label": "REFUTES"}
 {"id": 513, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 514, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 515, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 516, "predicted_label": "REFUTES"}
-{"id": 517, "predicted_label": "REFUTES"}
+{"id": 516, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 517, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 518, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 519, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 520, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 521, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 522, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 523, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 522, "predicted_label": "REFUTES"}
+{"id": 523, "predicted_label": "REFUTES"}
 {"id": 524, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 525, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 525, "predicted_label": "REFUTES"}
 {"id": 526, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 527, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 527, "predicted_label": "REFUTES"}
 {"id": 528, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 529, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 530, "predicted_label": "REFUTES"}
-{"id": 531, "predicted_label": "REFUTES"}
+{"id": 531, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 532, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 533, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 534, "predicted_label": "REFUTES"}
+{"id": 533, "predicted_label": "REFUTES"}
+{"id": 534, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 535, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 536, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 537, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 537, "predicted_label": "REFUTES"}
 {"id": 538, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 539, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 540, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 541, "predicted_label": "SUPPORTS"}
+{"id": 540, "predicted_label": "SUPPORTS"}
+{"id": 541, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 542, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 543, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 544, "predicted_label": "REFUTES"}
+{"id": 544, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 545, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 546, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 547, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 548, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 549, "predicted_label": "REFUTES"}
+{"id": 549, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 550, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 551, "predicted_label": "REFUTES"}
 {"id": 552, "predicted_label": "NOT ENOUGH INFO"}
@@ -556,76 +556,76 @@
 {"id": 555, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 556, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 557, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 558, "predicted_label": "REFUTES"}
+{"id": 558, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 559, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 560, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 561, "predicted_label": "SUPPORTS"}
+{"id": 561, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 562, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 563, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 564, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 565, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 566, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 567, "predicted_label": "REFUTES"}
+{"id": 566, "predicted_label": "REFUTES"}
+{"id": 567, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 568, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 569, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 570, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 571, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 572, "predicted_label": "SUPPORTS"}
+{"id": 572, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 573, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 574, "predicted_label": "REFUTES"}
 {"id": 575, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 576, "predicted_label": "REFUTES"}
+{"id": 576, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 577, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 578, "predicted_label": "REFUTES"}
 {"id": 579, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 580, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 581, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 581, "predicted_label": "REFUTES"}
 {"id": 582, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 583, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 584, "predicted_label": "REFUTES"}
+{"id": 584, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 585, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 586, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 587, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 588, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 589, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 587, "predicted_label": "REFUTES"}
+{"id": 588, "predicted_label": "REFUTES"}
+{"id": 589, "predicted_label": "REFUTES"}
 {"id": 590, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 591, "predicted_label": "REFUTES"}
 {"id": 592, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 593, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 594, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 594, "predicted_label": "REFUTES"}
 {"id": 595, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 596, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 596, "predicted_label": "REFUTES"}
 {"id": 597, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 598, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 599, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 600, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 601, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 602, "predicted_label": "REFUTES"}
+{"id": 602, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 603, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 604, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 605, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 606, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 606, "predicted_label": "REFUTES"}
 {"id": 607, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 608, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 609, "predicted_label": "REFUTES"}
+{"id": 609, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 610, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 611, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 612, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 613, "predicted_label": "REFUTES"}
-{"id": 614, "predicted_label": "REFUTES"}
-{"id": 615, "predicted_label": "REFUTES"}
+{"id": 612, "predicted_label": "REFUTES"}
+{"id": 613, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 614, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 615, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 616, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 617, "predicted_label": "REFUTES"}
-{"id": 618, "predicted_label": "REFUTES"}
-{"id": 619, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 617, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 618, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 619, "predicted_label": "REFUTES"}
 {"id": 620, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 621, "predicted_label": "REFUTES"}
+{"id": 621, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 622, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 623, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 624, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 625, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 625, "predicted_label": "REFUTES"}
 {"id": 626, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 627, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 627, "predicted_label": "REFUTES"}
 {"id": 628, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 629, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 630, "predicted_label": "NOT ENOUGH INFO"}
@@ -635,75 +635,75 @@
 {"id": 634, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 635, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 636, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 637, "predicted_label": "REFUTES"}
+{"id": 637, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 638, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 639, "predicted_label": "REFUTES"}
 {"id": 640, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 641, "predicted_label": "REFUTES"}
+{"id": 641, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 642, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 643, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 643, "predicted_label": "REFUTES"}
 {"id": 644, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 645, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 646, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 647, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 648, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 649, "predicted_label": "REFUTES"}
+{"id": 649, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 650, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 651, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 652, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 652, "predicted_label": "REFUTES"}
 {"id": 653, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 654, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 654, "predicted_label": "REFUTES"}
 {"id": 655, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 656, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 657, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 658, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 658, "predicted_label": "REFUTES"}
 {"id": 659, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 660, "predicted_label": "REFUTES"}
+{"id": 660, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 661, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 662, "predicted_label": "REFUTES"}
+{"id": 662, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 663, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 664, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 664, "predicted_label": "SUPPORTS"}
 {"id": 665, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 666, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 667, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 668, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 669, "predicted_label": "REFUTES"}
+{"id": 669, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 670, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 671, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 671, "predicted_label": "SUPPORTS"}
 {"id": 672, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 673, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 674, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 675, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 676, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 677, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 677, "predicted_label": "REFUTES"}
 {"id": 678, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 679, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 680, "predicted_label": "REFUTES"}
-{"id": 681, "predicted_label": "REFUTES"}
+{"id": 679, "predicted_label": "REFUTES"}
+{"id": 680, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 681, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 682, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 683, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 684, "predicted_label": "REFUTES"}
-{"id": 685, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 684, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 685, "predicted_label": "REFUTES"}
 {"id": 686, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 687, "predicted_label": "REFUTES"}
+{"id": 687, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 688, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 689, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 690, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 691, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 692, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 692, "predicted_label": "REFUTES"}
 {"id": 693, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 694, "predicted_label": "REFUTES"}
+{"id": 694, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 695, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 696, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 697, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 698, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 699, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 700, "predicted_label": "REFUTES"}
-{"id": 701, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 702, "predicted_label": "REFUTES"}
-{"id": 703, "predicted_label": "REFUTES"}
+{"id": 700, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 701, "predicted_label": "SUPPORTS"}
+{"id": 702, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 703, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 704, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 705, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 705, "predicted_label": "REFUTES"}
 {"id": 706, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 707, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 708, "predicted_label": "NOT ENOUGH INFO"}
@@ -711,385 +711,385 @@
 {"id": 710, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 711, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 712, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 713, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 713, "predicted_label": "SUPPORTS"}
 {"id": 714, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 715, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 716, "predicted_label": "SUPPORTS"}
+{"id": 716, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 717, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 718, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 719, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 720, "predicted_label": "REFUTES"}
-{"id": 721, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 719, "predicted_label": "REFUTES"}
+{"id": 720, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 721, "predicted_label": "REFUTES"}
 {"id": 722, "predicted_label": "REFUTES"}
-{"id": 723, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 724, "predicted_label": "SUPPORTS"}
+{"id": 723, "predicted_label": "REFUTES"}
+{"id": 724, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 725, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 726, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 727, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 728, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 729, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 730, "predicted_label": "SUPPORTS"}
+{"id": 729, "predicted_label": "REFUTES"}
+{"id": 730, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 731, "predicted_label": "REFUTES"}
 {"id": 732, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 733, "predicted_label": "REFUTES"}
+{"id": 733, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 734, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 735, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 736, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 737, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 738, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 739, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 740, "predicted_label": "REFUTES"}
-{"id": 741, "predicted_label": "REFUTES"}
-{"id": 742, "predicted_label": "REFUTES"}
+{"id": 740, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 741, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 742, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 743, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 744, "predicted_label": "REFUTES"}
 {"id": 745, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 746, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 746, "predicted_label": "REFUTES"}
 {"id": 747, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 748, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 749, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 750, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 751, "predicted_label": "REFUTES"}
-{"id": 752, "predicted_label": "REFUTES"}
+{"id": 751, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 752, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 753, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 754, "predicted_label": "REFUTES"}
+{"id": 754, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 755, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 756, "predicted_label": "REFUTES"}
+{"id": 756, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 757, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 758, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 759, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 760, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 761, "predicted_label": "REFUTES"}
+{"id": 761, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 762, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 763, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 764, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 765, "predicted_label": "REFUTES"}
+{"id": 765, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 766, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 767, "predicted_label": "REFUTES"}
+{"id": 767, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 768, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 769, "predicted_label": "REFUTES"}
+{"id": 769, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 770, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 771, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 772, "predicted_label": "REFUTES"}
-{"id": 773, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 774, "predicted_label": "REFUTES"}
+{"id": 772, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 773, "predicted_label": "REFUTES"}
+{"id": 774, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 775, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 776, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 777, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 778, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 779, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 780, "predicted_label": "SUPPORTS"}
-{"id": 781, "predicted_label": "REFUTES"}
+{"id": 780, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 781, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 782, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 783, "predicted_label": "REFUTES"}
+{"id": 783, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 784, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 785, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 786, "predicted_label": "SUPPORTS"}
+{"id": 786, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 787, "predicted_label": "SUPPORTS"}
 {"id": 788, "predicted_label": "REFUTES"}
 {"id": 789, "predicted_label": "SUPPORTS"}
 {"id": 790, "predicted_label": "SUPPORTS"}
-{"id": 791, "predicted_label": "SUPPORTS"}
-{"id": 792, "predicted_label": "SUPPORTS"}
-{"id": 793, "predicted_label": "SUPPORTS"}
-{"id": 794, "predicted_label": "SUPPORTS"}
-{"id": 795, "predicted_label": "SUPPORTS"}
+{"id": 791, "predicted_label": "REFUTES"}
+{"id": 792, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 793, "predicted_label": "REFUTES"}
+{"id": 794, "predicted_label": "REFUTES"}
+{"id": 795, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 796, "predicted_label": "SUPPORTS"}
 {"id": 797, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 798, "predicted_label": "SUPPORTS"}
-{"id": 799, "predicted_label": "SUPPORTS"}
-{"id": 800, "predicted_label": "SUPPORTS"}
-{"id": 801, "predicted_label": "SUPPORTS"}
+{"id": 798, "predicted_label": "REFUTES"}
+{"id": 799, "predicted_label": "REFUTES"}
+{"id": 800, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 801, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 802, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 803, "predicted_label": "SUPPORTS"}
+{"id": 803, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 804, "predicted_label": "SUPPORTS"}
 {"id": 805, "predicted_label": "SUPPORTS"}
-{"id": 806, "predicted_label": "SUPPORTS"}
-{"id": 807, "predicted_label": "SUPPORTS"}
-{"id": 808, "predicted_label": "SUPPORTS"}
-{"id": 809, "predicted_label": "SUPPORTS"}
-{"id": 810, "predicted_label": "SUPPORTS"}
-{"id": 811, "predicted_label": "REFUTES"}
-{"id": 812, "predicted_label": "SUPPORTS"}
-{"id": 813, "predicted_label": "SUPPORTS"}
-{"id": 814, "predicted_label": "SUPPORTS"}
+{"id": 806, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 807, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 808, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 809, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 810, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 811, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 812, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 813, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 814, "predicted_label": "REFUTES"}
 {"id": 815, "predicted_label": "SUPPORTS"}
 {"id": 816, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 817, "predicted_label": "SUPPORTS"}
-{"id": 818, "predicted_label": "SUPPORTS"}
+{"id": 818, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 819, "predicted_label": "SUPPORTS"}
 {"id": 820, "predicted_label": "SUPPORTS"}
 {"id": 821, "predicted_label": "REFUTES"}
-{"id": 822, "predicted_label": "SUPPORTS"}
-{"id": 823, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 824, "predicted_label": "SUPPORTS"}
-{"id": 825, "predicted_label": "SUPPORTS"}
-{"id": 826, "predicted_label": "SUPPORTS"}
+{"id": 822, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 823, "predicted_label": "SUPPORTS"}
+{"id": 824, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 825, "predicted_label": "REFUTES"}
+{"id": 826, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 827, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 828, "predicted_label": "REFUTES"}
+{"id": 828, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 829, "predicted_label": "SUPPORTS"}
-{"id": 830, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 830, "predicted_label": "SUPPORTS"}
 {"id": 831, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 832, "predicted_label": "SUPPORTS"}
+{"id": 832, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 833, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 834, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 835, "predicted_label": "SUPPORTS"}
-{"id": 836, "predicted_label": "SUPPORTS"}
-{"id": 837, "predicted_label": "SUPPORTS"}
+{"id": 836, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 837, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 838, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 839, "predicted_label": "SUPPORTS"}
-{"id": 840, "predicted_label": "SUPPORTS"}
-{"id": 841, "predicted_label": "SUPPORTS"}
-{"id": 842, "predicted_label": "SUPPORTS"}
+{"id": 839, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 840, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 841, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 842, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 843, "predicted_label": "SUPPORTS"}
-{"id": 844, "predicted_label": "SUPPORTS"}
-{"id": 845, "predicted_label": "SUPPORTS"}
+{"id": 844, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 845, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 846, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 847, "predicted_label": "SUPPORTS"}
 {"id": 848, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 849, "predicted_label": "SUPPORTS"}
 {"id": 850, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 851, "predicted_label": "SUPPORTS"}
+{"id": 851, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 852, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 853, "predicted_label": "SUPPORTS"}
+{"id": 853, "predicted_label": "REFUTES"}
 {"id": 854, "predicted_label": "SUPPORTS"}
 {"id": 855, "predicted_label": "REFUTES"}
 {"id": 856, "predicted_label": "SUPPORTS"}
-{"id": 857, "predicted_label": "SUPPORTS"}
-{"id": 858, "predicted_label": "REFUTES"}
-{"id": 859, "predicted_label": "SUPPORTS"}
+{"id": 857, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 858, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 859, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 860, "predicted_label": "REFUTES"}
 {"id": 861, "predicted_label": "REFUTES"}
-{"id": 862, "predicted_label": "SUPPORTS"}
+{"id": 862, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 863, "predicted_label": "SUPPORTS"}
-{"id": 864, "predicted_label": "SUPPORTS"}
-{"id": 865, "predicted_label": "SUPPORTS"}
-{"id": 866, "predicted_label": "SUPPORTS"}
+{"id": 864, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 865, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 866, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 867, "predicted_label": "REFUTES"}
 {"id": 868, "predicted_label": "SUPPORTS"}
-{"id": 869, "predicted_label": "SUPPORTS"}
+{"id": 869, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 870, "predicted_label": "SUPPORTS"}
-{"id": 871, "predicted_label": "SUPPORTS"}
-{"id": 872, "predicted_label": "SUPPORTS"}
-{"id": 873, "predicted_label": "SUPPORTS"}
+{"id": 871, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 872, "predicted_label": "REFUTES"}
+{"id": 873, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 874, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 875, "predicted_label": "SUPPORTS"}
+{"id": 875, "predicted_label": "REFUTES"}
 {"id": 876, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 877, "predicted_label": "SUPPORTS"}
+{"id": 877, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 878, "predicted_label": "SUPPORTS"}
 {"id": 879, "predicted_label": "SUPPORTS"}
 {"id": 880, "predicted_label": "SUPPORTS"}
 {"id": 881, "predicted_label": "REFUTES"}
-{"id": 882, "predicted_label": "SUPPORTS"}
-{"id": 883, "predicted_label": "SUPPORTS"}
-{"id": 884, "predicted_label": "SUPPORTS"}
+{"id": 882, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 883, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 884, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 885, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 886, "predicted_label": "SUPPORTS"}
+{"id": 886, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 887, "predicted_label": "SUPPORTS"}
-{"id": 888, "predicted_label": "SUPPORTS"}
+{"id": 888, "predicted_label": "REFUTES"}
 {"id": 889, "predicted_label": "SUPPORTS"}
-{"id": 890, "predicted_label": "SUPPORTS"}
-{"id": 891, "predicted_label": "SUPPORTS"}
-{"id": 892, "predicted_label": "SUPPORTS"}
+{"id": 890, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 891, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 892, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 893, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 894, "predicted_label": "SUPPORTS"}
-{"id": 895, "predicted_label": "SUPPORTS"}
+{"id": 894, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 895, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 896, "predicted_label": "SUPPORTS"}
 {"id": 897, "predicted_label": "SUPPORTS"}
-{"id": 898, "predicted_label": "SUPPORTS"}
-{"id": 899, "predicted_label": "SUPPORTS"}
+{"id": 898, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 899, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 900, "predicted_label": "SUPPORTS"}
-{"id": 901, "predicted_label": "SUPPORTS"}
+{"id": 901, "predicted_label": "REFUTES"}
 {"id": 902, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 903, "predicted_label": "SUPPORTS"}
+{"id": 903, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 904, "predicted_label": "REFUTES"}
-{"id": 905, "predicted_label": "SUPPORTS"}
-{"id": 906, "predicted_label": "SUPPORTS"}
+{"id": 905, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 906, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 907, "predicted_label": "SUPPORTS"}
 {"id": 908, "predicted_label": "REFUTES"}
-{"id": 909, "predicted_label": "SUPPORTS"}
-{"id": 910, "predicted_label": "SUPPORTS"}
-{"id": 911, "predicted_label": "SUPPORTS"}
+{"id": 909, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 910, "predicted_label": "REFUTES"}
+{"id": 911, "predicted_label": "REFUTES"}
 {"id": 912, "predicted_label": "SUPPORTS"}
-{"id": 913, "predicted_label": "SUPPORTS"}
-{"id": 914, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 913, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 914, "predicted_label": "SUPPORTS"}
 {"id": 915, "predicted_label": "SUPPORTS"}
 {"id": 916, "predicted_label": "SUPPORTS"}
-{"id": 917, "predicted_label": "SUPPORTS"}
-{"id": 918, "predicted_label": "SUPPORTS"}
+{"id": 917, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 918, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 919, "predicted_label": "SUPPORTS"}
-{"id": 920, "predicted_label": "SUPPORTS"}
-{"id": 921, "predicted_label": "SUPPORTS"}
+{"id": 920, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 921, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 922, "predicted_label": "SUPPORTS"}
-{"id": 923, "predicted_label": "SUPPORTS"}
-{"id": 924, "predicted_label": "SUPPORTS"}
-{"id": 925, "predicted_label": "SUPPORTS"}
+{"id": 923, "predicted_label": "REFUTES"}
+{"id": 924, "predicted_label": "REFUTES"}
+{"id": 925, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 926, "predicted_label": "SUPPORTS"}
 {"id": 927, "predicted_label": "SUPPORTS"}
-{"id": 928, "predicted_label": "SUPPORTS"}
-{"id": 929, "predicted_label": "SUPPORTS"}
-{"id": 930, "predicted_label": "SUPPORTS"}
-{"id": 931, "predicted_label": "SUPPORTS"}
+{"id": 928, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 929, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 930, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 931, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 932, "predicted_label": "SUPPORTS"}
 {"id": 933, "predicted_label": "SUPPORTS"}
-{"id": 934, "predicted_label": "SUPPORTS"}
-{"id": 935, "predicted_label": "SUPPORTS"}
-{"id": 936, "predicted_label": "SUPPORTS"}
+{"id": 934, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 935, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 936, "predicted_label": "REFUTES"}
 {"id": 937, "predicted_label": "REFUTES"}
-{"id": 938, "predicted_label": "SUPPORTS"}
-{"id": 939, "predicted_label": "SUPPORTS"}
+{"id": 938, "predicted_label": "REFUTES"}
+{"id": 939, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 940, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 941, "predicted_label": "SUPPORTS"}
-{"id": 942, "predicted_label": "SUPPORTS"}
+{"id": 941, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 942, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 943, "predicted_label": "SUPPORTS"}
 {"id": 944, "predicted_label": "REFUTES"}
-{"id": 945, "predicted_label": "SUPPORTS"}
-{"id": 946, "predicted_label": "SUPPORTS"}
-{"id": 947, "predicted_label": "SUPPORTS"}
-{"id": 948, "predicted_label": "SUPPORTS"}
-{"id": 949, "predicted_label": "SUPPORTS"}
-{"id": 950, "predicted_label": "SUPPORTS"}
+{"id": 945, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 946, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 947, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 948, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 949, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 950, "predicted_label": "REFUTES"}
 {"id": 951, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 952, "predicted_label": "SUPPORTS"}
+{"id": 952, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 953, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 954, "predicted_label": "SUPPORTS"}
+{"id": 954, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 955, "predicted_label": "REFUTES"}
 {"id": 956, "predicted_label": "SUPPORTS"}
-{"id": 957, "predicted_label": "SUPPORTS"}
-{"id": 958, "predicted_label": "SUPPORTS"}
-{"id": 959, "predicted_label": "SUPPORTS"}
+{"id": 957, "predicted_label": "REFUTES"}
+{"id": 958, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 959, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 960, "predicted_label": "REFUTES"}
-{"id": 961, "predicted_label": "SUPPORTS"}
-{"id": 962, "predicted_label": "SUPPORTS"}
+{"id": 961, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 962, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 963, "predicted_label": "SUPPORTS"}
-{"id": 964, "predicted_label": "SUPPORTS"}
+{"id": 964, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 965, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 966, "predicted_label": "SUPPORTS"}
+{"id": 966, "predicted_label": "REFUTES"}
 {"id": 967, "predicted_label": "SUPPORTS"}
 {"id": 968, "predicted_label": "SUPPORTS"}
 {"id": 969, "predicted_label": "SUPPORTS"}
-{"id": 970, "predicted_label": "SUPPORTS"}
-{"id": 971, "predicted_label": "SUPPORTS"}
+{"id": 970, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 971, "predicted_label": "REFUTES"}
 {"id": 972, "predicted_label": "SUPPORTS"}
-{"id": 973, "predicted_label": "SUPPORTS"}
-{"id": 974, "predicted_label": "SUPPORTS"}
+{"id": 973, "predicted_label": "REFUTES"}
+{"id": 974, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 975, "predicted_label": "SUPPORTS"}
-{"id": 976, "predicted_label": "SUPPORTS"}
-{"id": 977, "predicted_label": "SUPPORTS"}
-{"id": 978, "predicted_label": "SUPPORTS"}
+{"id": 976, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 977, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 978, "predicted_label": "REFUTES"}
 {"id": 979, "predicted_label": "SUPPORTS"}
 {"id": 980, "predicted_label": "SUPPORTS"}
 {"id": 981, "predicted_label": "SUPPORTS"}
 {"id": 982, "predicted_label": "SUPPORTS"}
 {"id": 983, "predicted_label": "SUPPORTS"}
-{"id": 984, "predicted_label": "REFUTES"}
-{"id": 985, "predicted_label": "SUPPORTS"}
+{"id": 984, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 985, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 986, "predicted_label": "SUPPORTS"}
-{"id": 987, "predicted_label": "SUPPORTS"}
+{"id": 987, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 988, "predicted_label": "SUPPORTS"}
 {"id": 989, "predicted_label": "SUPPORTS"}
-{"id": 990, "predicted_label": "SUPPORTS"}
+{"id": 990, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 991, "predicted_label": "SUPPORTS"}
-{"id": 992, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 993, "predicted_label": "SUPPORTS"}
-{"id": 994, "predicted_label": "SUPPORTS"}
-{"id": 995, "predicted_label": "SUPPORTS"}
-{"id": 996, "predicted_label": "SUPPORTS"}
+{"id": 992, "predicted_label": "SUPPORTS"}
+{"id": 993, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 994, "predicted_label": "REFUTES"}
+{"id": 995, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 996, "predicted_label": "REFUTES"}
 {"id": 997, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 998, "predicted_label": "SUPPORTS"}
-{"id": 999, "predicted_label": "SUPPORTS"}
+{"id": 999, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1000, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1001, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1002, "predicted_label": "REFUTES"}
+{"id": 1002, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1003, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1004, "predicted_label": "SUPPORTS"}
+{"id": 1004, "predicted_label": "REFUTES"}
 {"id": 1005, "predicted_label": "SUPPORTS"}
 {"id": 1006, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1007, "predicted_label": "SUPPORTS"}
-{"id": 1008, "predicted_label": "REFUTES"}
+{"id": 1008, "predicted_label": "SUPPORTS"}
 {"id": 1009, "predicted_label": "SUPPORTS"}
 {"id": 1010, "predicted_label": "SUPPORTS"}
 {"id": 1011, "predicted_label": "SUPPORTS"}
-{"id": 1012, "predicted_label": "SUPPORTS"}
+{"id": 1012, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1013, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1014, "predicted_label": "REFUTES"}
 {"id": 1015, "predicted_label": "REFUTES"}
 {"id": 1016, "predicted_label": "SUPPORTS"}
 {"id": 1017, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1018, "predicted_label": "SUPPORTS"}
-{"id": 1019, "predicted_label": "SUPPORTS"}
+{"id": 1018, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1019, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1020, "predicted_label": "SUPPORTS"}
 {"id": 1021, "predicted_label": "SUPPORTS"}
-{"id": 1022, "predicted_label": "SUPPORTS"}
+{"id": 1022, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1023, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1024, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1025, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1026, "predicted_label": "SUPPORTS"}
-{"id": 1027, "predicted_label": "SUPPORTS"}
-{"id": 1028, "predicted_label": "SUPPORTS"}
+{"id": 1027, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1028, "predicted_label": "REFUTES"}
 {"id": 1029, "predicted_label": "SUPPORTS"}
 {"id": 1030, "predicted_label": "REFUTES"}
-{"id": 1031, "predicted_label": "SUPPORTS"}
+{"id": 1031, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1032, "predicted_label": "REFUTES"}
 {"id": 1033, "predicted_label": "REFUTES"}
 {"id": 1034, "predicted_label": "SUPPORTS"}
-{"id": 1035, "predicted_label": "REFUTES"}
+{"id": 1035, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1036, "predicted_label": "SUPPORTS"}
 {"id": 1037, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1038, "predicted_label": "REFUTES"}
-{"id": 1039, "predicted_label": "SUPPORTS"}
-{"id": 1040, "predicted_label": "SUPPORTS"}
+{"id": 1039, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1040, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1041, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1042, "predicted_label": "SUPPORTS"}
 {"id": 1043, "predicted_label": "SUPPORTS"}
-{"id": 1044, "predicted_label": "SUPPORTS"}
-{"id": 1045, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1046, "predicted_label": "SUPPORTS"}
-{"id": 1047, "predicted_label": "SUPPORTS"}
+{"id": 1044, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1045, "predicted_label": "REFUTES"}
+{"id": 1046, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1047, "predicted_label": "REFUTES"}
 {"id": 1048, "predicted_label": "SUPPORTS"}
-{"id": 1049, "predicted_label": "SUPPORTS"}
+{"id": 1049, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1050, "predicted_label": "SUPPORTS"}
-{"id": 1051, "predicted_label": "SUPPORTS"}
+{"id": 1051, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1052, "predicted_label": "SUPPORTS"}
 {"id": 1053, "predicted_label": "SUPPORTS"}
 {"id": 1054, "predicted_label": "SUPPORTS"}
-{"id": 1055, "predicted_label": "SUPPORTS"}
+{"id": 1055, "predicted_label": "REFUTES"}
 {"id": 1056, "predicted_label": "SUPPORTS"}
 {"id": 1057, "predicted_label": "SUPPORTS"}
-{"id": 1058, "predicted_label": "SUPPORTS"}
-{"id": 1059, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1058, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1059, "predicted_label": "REFUTES"}
 {"id": 1060, "predicted_label": "SUPPORTS"}
 {"id": 1061, "predicted_label": "SUPPORTS"}
-{"id": 1062, "predicted_label": "SUPPORTS"}
+{"id": 1062, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1063, "predicted_label": "SUPPORTS"}
 {"id": 1064, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1065, "predicted_label": "SUPPORTS"}
+{"id": 1065, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1066, "predicted_label": "SUPPORTS"}
 {"id": 1067, "predicted_label": "SUPPORTS"}
 {"id": 1068, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1069, "predicted_label": "REFUTES"}
-{"id": 1070, "predicted_label": "SUPPORTS"}
-{"id": 1071, "predicted_label": "SUPPORTS"}
+{"id": 1069, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1070, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1071, "predicted_label": "REFUTES"}
 {"id": 1072, "predicted_label": "SUPPORTS"}
-{"id": 1073, "predicted_label": "SUPPORTS"}
-{"id": 1074, "predicted_label": "SUPPORTS"}
-{"id": 1075, "predicted_label": "SUPPORTS"}
-{"id": 1076, "predicted_label": "SUPPORTS"}
-{"id": 1077, "predicted_label": "REFUTES"}
-{"id": 1078, "predicted_label": "SUPPORTS"}
-{"id": 1079, "predicted_label": "SUPPORTS"}
+{"id": 1073, "predicted_label": "REFUTES"}
+{"id": 1074, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1075, "predicted_label": "REFUTES"}
+{"id": 1076, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1077, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1078, "predicted_label": "REFUTES"}
+{"id": 1079, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1080, "predicted_label": "REFUTES"}
-{"id": 1081, "predicted_label": "SUPPORTS"}
-{"id": 1082, "predicted_label": "SUPPORTS"}
-{"id": 1083, "predicted_label": "REFUTES"}
+{"id": 1081, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1082, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1083, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1084, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1085, "predicted_label": "SUPPORTS"}
 {"id": 1086, "predicted_label": "SUPPORTS"}
 {"id": 1087, "predicted_label": "REFUTES"}
-{"id": 1088, "predicted_label": "SUPPORTS"}
-{"id": 1089, "predicted_label": "SUPPORTS"}
+{"id": 1088, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1089, "predicted_label": "REFUTES"}
 {"id": 1090, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1091, "predicted_label": "SUPPORTS"}
+{"id": 1091, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1092, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1093, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1094, "predicted_label": "NOT ENOUGH INFO"}
@@ -1097,7 +1097,7 @@
 {"id": 1096, "predicted_label": "REFUTES"}
 {"id": 1097, "predicted_label": "SUPPORTS"}
 {"id": 1098, "predicted_label": "SUPPORTS"}
-{"id": 1099, "predicted_label": "REFUTES"}
+{"id": 1099, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1100, "predicted_label": "SUPPORTS"}
 {"id": 1101, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1102, "predicted_label": "SUPPORTS"}
@@ -1106,74 +1106,74 @@
 {"id": 1105, "predicted_label": "SUPPORTS"}
 {"id": 1106, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1107, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1108, "predicted_label": "SUPPORTS"}
-{"id": 1109, "predicted_label": "SUPPORTS"}
+{"id": 1108, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1109, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1110, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1111, "predicted_label": "SUPPORTS"}
 {"id": 1112, "predicted_label": "SUPPORTS"}
 {"id": 1113, "predicted_label": "SUPPORTS"}
-{"id": 1114, "predicted_label": "SUPPORTS"}
+{"id": 1114, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1115, "predicted_label": "REFUTES"}
 {"id": 1116, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1117, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1118, "predicted_label": "SUPPORTS"}
-{"id": 1119, "predicted_label": "SUPPORTS"}
-{"id": 1120, "predicted_label": "SUPPORTS"}
+{"id": 1118, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1119, "predicted_label": "REFUTES"}
+{"id": 1120, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1121, "predicted_label": "SUPPORTS"}
-{"id": 1122, "predicted_label": "SUPPORTS"}
+{"id": 1122, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1123, "predicted_label": "SUPPORTS"}
-{"id": 1124, "predicted_label": "REFUTES"}
-{"id": 1125, "predicted_label": "SUPPORTS"}
-{"id": 1126, "predicted_label": "SUPPORTS"}
-{"id": 1127, "predicted_label": "SUPPORTS"}
+{"id": 1124, "predicted_label": "SUPPORTS"}
+{"id": 1125, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1126, "predicted_label": "REFUTES"}
+{"id": 1127, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1128, "predicted_label": "SUPPORTS"}
-{"id": 1129, "predicted_label": "SUPPORTS"}
-{"id": 1130, "predicted_label": "SUPPORTS"}
+{"id": 1129, "predicted_label": "REFUTES"}
+{"id": 1130, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1131, "predicted_label": "REFUTES"}
 {"id": 1132, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1133, "predicted_label": "REFUTES"}
+{"id": 1133, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1134, "predicted_label": "SUPPORTS"}
 {"id": 1135, "predicted_label": "REFUTES"}
-{"id": 1136, "predicted_label": "SUPPORTS"}
-{"id": 1137, "predicted_label": "SUPPORTS"}
+{"id": 1136, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1137, "predicted_label": "REFUTES"}
 {"id": 1138, "predicted_label": "SUPPORTS"}
 {"id": 1139, "predicted_label": "SUPPORTS"}
-{"id": 1140, "predicted_label": "REFUTES"}
+{"id": 1140, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1141, "predicted_label": "SUPPORTS"}
-{"id": 1142, "predicted_label": "SUPPORTS"}
+{"id": 1142, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1143, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1144, "predicted_label": "SUPPORTS"}
+{"id": 1144, "predicted_label": "REFUTES"}
 {"id": 1145, "predicted_label": "SUPPORTS"}
 {"id": 1146, "predicted_label": "SUPPORTS"}
-{"id": 1147, "predicted_label": "SUPPORTS"}
+{"id": 1147, "predicted_label": "REFUTES"}
 {"id": 1148, "predicted_label": "SUPPORTS"}
-{"id": 1149, "predicted_label": "SUPPORTS"}
-{"id": 1150, "predicted_label": "SUPPORTS"}
-{"id": 1151, "predicted_label": "SUPPORTS"}
-{"id": 1152, "predicted_label": "NOT ENOUGH INFO"}
-{"id": 1153, "predicted_label": "SUPPORTS"}
+{"id": 1149, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1150, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1151, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1152, "predicted_label": "SUPPORTS"}
+{"id": 1153, "predicted_label": "REFUTES"}
 {"id": 1154, "predicted_label": "SUPPORTS"}
 {"id": 1155, "predicted_label": "SUPPORTS"}
-{"id": 1156, "predicted_label": "SUPPORTS"}
-{"id": 1157, "predicted_label": "REFUTES"}
-{"id": 1158, "predicted_label": "SUPPORTS"}
-{"id": 1159, "predicted_label": "SUPPORTS"}
-{"id": 1160, "predicted_label": "SUPPORTS"}
+{"id": 1156, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1157, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1158, "predicted_label": "REFUTES"}
+{"id": 1159, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1160, "predicted_label": "REFUTES"}
 {"id": 1161, "predicted_label": "SUPPORTS"}
-{"id": 1162, "predicted_label": "SUPPORTS"}
+{"id": 1162, "predicted_label": "REFUTES"}
 {"id": 1163, "predicted_label": "SUPPORTS"}
-{"id": 1164, "predicted_label": "SUPPORTS"}
-{"id": 1165, "predicted_label": "SUPPORTS"}
-{"id": 1166, "predicted_label": "SUPPORTS"}
+{"id": 1164, "predicted_label": "REFUTES"}
+{"id": 1165, "predicted_label": "REFUTES"}
+{"id": 1166, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1167, "predicted_label": "REFUTES"}
-{"id": 1168, "predicted_label": "SUPPORTS"}
-{"id": 1169, "predicted_label": "SUPPORTS"}
-{"id": 1170, "predicted_label": "SUPPORTS"}
+{"id": 1168, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1169, "predicted_label": "REFUTES"}
+{"id": 1170, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1171, "predicted_label": "SUPPORTS"}
 {"id": 1172, "predicted_label": "SUPPORTS"}
-{"id": 1173, "predicted_label": "SUPPORTS"}
+{"id": 1173, "predicted_label": "REFUTES"}
 {"id": 1174, "predicted_label": "SUPPORTS"}
-{"id": 1175, "predicted_label": "SUPPORTS"}
-{"id": 1176, "predicted_label": "SUPPORTS"}
+{"id": 1175, "predicted_label": "NOT ENOUGH INFO"}
+{"id": 1176, "predicted_label": "REFUTES"}
 {"id": 1177, "predicted_label": "NOT ENOUGH INFO"}
 {"id": 1178, "predicted_label": "NOT ENOUGH INFO"}

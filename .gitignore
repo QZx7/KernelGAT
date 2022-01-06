@@ -8,6 +8,10 @@ __pycache__/
 # specific large files
 bert_base/bert_config.json
 bert_base/vocab.txt
+roberta_large/config.json
+roberta_large/vocab.json
+roberta_large/merges.txt
+checkpoint/kgat/train_log.txt
 
 # DS files
 *.DS_Store
